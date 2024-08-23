@@ -1,6 +1,6 @@
-#include <Windows.h>
+#include <Windows.h> // Required for too much things
 #include <TlHelp32.h>
-#include <string>
+#include <string> // Required for strings..
 #include <commdlg.h>  // Required for GetOpenFileName
 
 // Function prototypes

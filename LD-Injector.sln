@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35201.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL-UE_Injector", "DLL-UE_Injector\DLL-UE_Injector.vcxproj", "{90CD6B53-59AB-46CE-8394-60215E65DCBF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LD-Injector", "DLL-UE_Injector\DLL-UE_Injector.vcxproj", "{90CD6B53-59AB-46CE-8394-60215E65DCBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
