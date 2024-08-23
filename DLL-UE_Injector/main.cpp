@@ -81,10 +81,10 @@ std::wstring SelectFile(bool isDll) {
     ofn.nMaxFile = sizeof(filePath) / sizeof(wchar_t);
 
     if (isDll) {
-        ofn.lpstrFilter = L"DLL Files\0*.dll\0All Files\0*.*\0"; // DLL filter
+        ofn.lpstrFilter = L"Dynamic link library (.dll)\0*.dll\0"; // DLL filter
     }
     else {
-        ofn.lpstrFilter = L"Executable Files\0*.exe\0All Files\0*.*\0"; // Executable filter
+        ofn.lpstrFilter = L"Executable (.exe)\0*.exe\0"; // Executable filter
     }
     ofn.Flags = OFN_PATHMUSTEXIST | OFN_FILEMUSTEXIST | OFN_EXPLORER;
 
