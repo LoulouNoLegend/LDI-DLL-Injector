@@ -28,7 +28,7 @@
 ## Important Notes
 
 - **Permissions**: You may need administrative rights to inject DLLs into certain processes.
-- **Use Wisely**: DLL injection can affect system stability and security. Make sure you understand the implications before using this tool.
+- **Use Wisely**: DLL injection can affect your system. Don't inject any random DLL and be sure to know what you're doing.
 
 ## License
 
