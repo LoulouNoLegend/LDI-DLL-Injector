@@ -28,10 +28,10 @@ int main() {
         DWORD processID = GetProcessID(exePath);
         if (processID) {
             InjectDLL(processID, dllPath);
-            MessageBox(nullptr, L"DLL injected successfully.", L"Success", MB_OK);
+            MessageBox(nullptr, L"DLL injected successfully.", L"Injection done!", MB_OK);
         }
         else {
-            MessageBox(nullptr, L"The process not found, make sure it's opened.", L"Error", MB_OK | MB_ICONERROR);
+            MessageBox(nullptr, L"The process was not found, make sure it's opened.", L"Error", MB_OK | MB_ICONERROR);
         }
     }
     return 0;
