@@ -8,16 +8,16 @@
 2. **Choose a DLL**: Select the .dll file you wish to inject into the target application.
 3. **DLL injected**: Enjoy!
 
-## How to Use
+## How to Use (2 methods)
 
-### Compile it yourself
+### Compiling it yourself
 1. **Download the Source Code**: Get the latest version from [GitHub](https://github.com/LoulouNoLegend/LD-Injector).
 2. **Build the Application**: Compile the source code using a C++ compiler on Windows. Ensure you have the necessary Windows SDK libraries.
 3. **Run the App**: Launch the compiled application.
 4. **Follow the Prompts**: Use the provided dialogs to select your executable and DLL files.
 5. **Inject**: Click the injection button to add the DLL to the executable.
 
-### Download the .exe file
+### Downloading the app itself
 *Soon.*
 
 ## What You Need
