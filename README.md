@@ -7,7 +7,7 @@
 ### Compiling it yourself
 1. **Download the Source Code**: Get the latest version from [GitHub](https://github.com/LoulouNoLegend/LD-Injector).
 2. **Build the Application**: Compile the source code using a C++ compiler on Windows. Ensure you have the necessary Windows SDK libraries.
-3. **Run the App**: Launch the compiled application.
+3. **Run the Apps**: Launch the compiled application and the app you want your DLL to be in.
 4. **Follow the Prompts**: Use the provided dialogs to select your executable and DLL files.
 5. **Enjoy!**
 
