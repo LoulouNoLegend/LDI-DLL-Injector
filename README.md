@@ -27,7 +27,7 @@
 
 - **Permissions**: You may need administrative rights to inject DLLs into certain processes.
 - **Use Wisely**: DLL injection can affect your system. Don't inject any random DLL and be sure to know what you're doing.
-- **I'm not responsible for any problems related to injecting an unsafe DLL. Be sure that you can trust the DLL you inject.
+- **I'm not responsible for any problems related to injecting an unsafe DLL. Be sure that you can trust the DLL you inject.**
 
 ## License
 
