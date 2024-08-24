@@ -14,7 +14,9 @@
 5. **Enjoy!**
 
 ### Downloading the app itself
-*Soon.*
+1. **Download the zip file**: [Open the release tab](https://github.com/LoulouNoLegend/LD-Injector/releases/) and scroll a little bit to find the files
+2. **Unzip the executable**: Open the zip file and extract the executable somewhere on your pc
+3. **Open the executable**: Enjoy!
 
 ## What You Need
 
