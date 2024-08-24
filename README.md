@@ -21,7 +21,7 @@
 ## What You Need
 
 - **Windows OS**
-- **C++ Compiler**
+- **Visual Studio Community** *(Made with VSC 2022)*
 
 ## Important Notes
 
