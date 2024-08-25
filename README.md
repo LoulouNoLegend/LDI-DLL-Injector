@@ -31,4 +31,5 @@
 
 ## License
 
-This project is licensed under the MIT License. Check out the [LICENSE](https://github.com/LoulouNoLegend/LD-Injector/blob/master/LICENSE.txt) file for more details.
+[Loulou's DLL Injector](https://github.com/LoulouNoLegend/LDI-DLL-Injector) © 2024 by [LoulouNoLegend](https://github.com/LoulouNoLegend) is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
+Check out the [LICENSE](https://github.com/LoulouNoLegend/LD-Injector/blob/master/LICENSE.txt) file for more details.
