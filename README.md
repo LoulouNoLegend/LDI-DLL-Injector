@@ -1,6 +1,6 @@
 # Loulou's DLL Injector
 
-**LDI** is a straightforward Windows application that allows you to inject a DLL (Dynamic Link Library) into a running process. Whether you’re a developer testing your code or someone looking to modify an application, this tool provides an easy way to accomplish that task. ***LDI uses the Win32 API, which makes this only compatible with Windows.***
+**LDI** is a Windows application that allows you to inject a DLL (Dynamic Link Library) into a running process. ***LDI uses the Win32 API, which makes this only compatible with Windows.***
 
 *I made a template from the DLL that was used while programming that tool so you cna compile your own one! Just [click here](https://github.com/LoulouNoLegend/DLL-Template)*
 
